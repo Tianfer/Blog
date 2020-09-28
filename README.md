@@ -2,6 +2,9 @@
 这个博客是用来记录一些读书的读后感和技术的学习总结
 
 ## 技术相关
+### JavaScript高级程序设计(第4版)
+- [第一章～第三章](https://github.com/Tianfer/Blog/issues/13)
+
 ### React
 - [React useState](https://github.com/Tianfer/Blog/issues/7)
 
